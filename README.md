@@ -1,1 +1,1 @@
-README file for shell basics project
+Repo for ALX Software Engineering course projects
