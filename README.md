@@ -1,3 +1,1 @@
-# alx-system_engineering-devops
-
-My README file for ALX system engineering course
+README file for shell basics project
